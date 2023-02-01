@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POSWeather</string>
+    <string name="dust">미세먼지</string>
+    <string name="temperature">온도</string>
+    <string name="humidity">습도</string>
+    <string name="pressure">기압</string>
+    <string name="sun_quantum">일사량</string>
+</resources>
